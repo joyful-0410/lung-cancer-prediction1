@@ -70,7 +70,6 @@ Scan the QR code below to access the lung cancer classification system.
 
 ---
 
-## Author
 ## Future Improvements
 
 * Add ROC curve analysis
@@ -78,7 +77,8 @@ Scan the QR code below to access the lung cancer classification system.
 * Improve feature selection
 * Add survival analysis
 * Deploy advanced AI models
-
+  
+## Author
 Kang-Sheng Liu
 Department of Biotechnology
 Chang Jung Christian University
