@@ -71,6 +71,13 @@ Scan the QR code below to access the lung cancer classification system.
 ---
 
 ## Author
+## Future Improvements
+
+* Add ROC curve analysis
+* Integrate TCGA lung cancer datasets
+* Improve feature selection
+* Add survival analysis
+* Deploy advanced AI models
 
 Kang-Sheng Liu
 Department of Biotechnology
