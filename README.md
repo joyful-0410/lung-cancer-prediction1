@@ -2,7 +2,7 @@
 
 Try the deployed Streamlit application here:
 
-https://lung-cancer-predictor1.streamlit.app/
+https://lung-cancer-prediction1-i8ah4bbmitplzlry972vlf.streamlit.app
 
 # Lung Adenocarcinoma Classification Project
 
@@ -60,7 +60,7 @@ The following methods were used in this project:
 
 Scan the QR code below to access the lung cancer classification system.
 
-![QR Code](肺腺癌分類與關鍵基因預測系統.png)
+![QR Code](ai肺腺癌qrcode.png)
 
 ---
 
