@@ -60,7 +60,7 @@ The following methods were used in this project:
 
 Scan the QR code below to access the lung cancer classification system.
 
-![QR Code](ai肺腺癌qrcode.png)
+![QR Code](ai肺腺癌系統qrcode.png)
 
 ---
 
