@@ -2,7 +2,7 @@
 
 Try the deployed Streamlit application here:
 
-http://localhost:8502
+https://lung-cancer-prediction1-i8ah4bbmitplzlry972vlf.streamlit.app
 
 # Lung Adenocarcinoma Classification Project
 
